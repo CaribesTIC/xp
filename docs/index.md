@@ -3,33 +3,25 @@ layout: home
 
 hero:
   name: XP
-  text: Métodología Ágil
-  tagline: Desarrollo de Software
+  text: Desarrollo de Software
+  tagline: Métodología Ágil
   image:
     src: /logo.png
     alt: XP
   actions:
     - theme: brand
       text: Comenzar
-      link: /tuto/introduction
+      link: /start/intro
     - theme: alt
       text: GitHub
-      link: https://github.com/CaribesTIC/vue-forms
+      link: https://github.com/CaribesTIC/xp
       
 
 features:
-  - title: Componente Input
-    details: Componente reutilizable a partir del elemento <input type="text">    
-  - title: Componente Select
-    details: Componente reutilizable a partir del elemento <select>
-  - title: Componente Checkbox
-    details: Componente reutilizable a partir del elemento <input type="checkbox">
-  - title: Componente Radio
-    details: Componente reutilizable a partir del elemento <input type="radio">
-  - title: Componente RadioGroup
-    details: Componente reutilizable para agrupar los RadioGroup por nombre
-  - title: Componente Textarea
-    details: Componente reutilizable a partir del elemento <textarea>
+  - title: 5 Valores
+    details: El motor de XP se basa en cinco valores principales, los cuales aplicados de manera simultánea, impulsan la esencia colaborativa del equipo.
+  - title: 12 Prácticas
+    details: El motor de XP también tiene un compendio de 12 Buenas Prácticas, que podrían ser nombradas como los 12 Hábitos.
 footer: MIT Licensed | Copyleft © 2022-present Ernesto Canquiz
 ---
 

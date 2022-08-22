@@ -1,8 +1,6 @@
-# Entorno de trabajo
+# Entorno de trabajo orientado a la Comunicación
 
-:::warning Orientado a la Comunicación
-No se verá sorprendido por encontrarse un apartado dedicado a _"La Comunicación dentro del Equipo"_.
-:::
+**No se verá sorprendido por encontrarse con la dedicación de este apartado.**
 
 >En este apartado vamos a describir lo que consideramos como un entorno de trabajo orientado a la buena comunicación entre los integrantes del equipo. Asumimos unas 4 a 12 personas. Todo lo que se exponga aquí, es una referencia que puede ser llevada a otras necesidades un tanto más concretas.
 
