@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,N as r}from"./chunks/framework.f942ffd7.js";const f=JSON.parse('{"title":"Transparencia","description":"","frontmatter":{},"headers":[],"relativePath":"pillars/transparency.md"}'),n={name:"pillars/transparency.md"},s=r("",12),i=[s];function t(l,c,d,p,u,m){return o(),a("div",null,i)}const v=e(n,[["render",t]]);export{f as __pageData,v as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,N as s}from"./chunks/framework.f942ffd7.js";const b=JSON.parse('{"title":"Los Pilares","description":"","frontmatter":{},"headers":[],"relativePath":"pillars/intro.md"}'),r={name:"pillars/intro.md"},n=s("",8),i=[n];function t(l,c,p,d,u,m){return o(),a("div",null,i)}const q=e(r,[["render",t]]);export{b as __pageData,q as default};

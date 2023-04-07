@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,N as i}from"./chunks/framework.f942ffd7.js";const v=JSON.parse('{"title":"Revisión del Sprint","description":"","frontmatter":{},"headers":[],"relativePath":"events/sprint-review.md"}'),l={name:"events/sprint-review.md"},r=i("",33),n=[r];function t(s,d,c,u,p,m){return o(),a("div",null,n)}const f=e(l,[["render",t]]);export{v as __pageData,f as default};

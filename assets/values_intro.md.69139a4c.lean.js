@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as a,N as s}from"./chunks/framework.d7e4e340.js";const b=JSON.parse('{"title":"Valores XP","description":"","frontmatter":{},"headers":[],"relativePath":"values/intro.md"}'),r={name:"values/intro.md"},l=s("",7),i=[l];function n(t,c,d,u,p,m){return a(),o("div",null,i)}const h=e(r,[["render",n]]);export{b as __pageData,h as default};

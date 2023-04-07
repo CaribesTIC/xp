@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as a,N as r}from"./chunks/framework.f942ffd7.js";const q=JSON.parse('{"title":"Director de Informática","description":"","frontmatter":{},"headers":[],"relativePath":"roles/it-director.md"}'),t={name:"roles/it-director.md"},n=r("",9),s=[n];function i(c,l,d,u,p,m){return a(),o("div",null,s)}const f=e(t,[["render",i]]);export{q as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,N as o}from"./chunks/framework.f942ffd7.js";const _=JSON.parse('{"title":"Adaptación","description":"","frontmatter":{},"headers":[],"relativePath":"pillars/adaptation.md"}'),n={name:"pillars/adaptation.md"},s=o("",14),i=[s];function t(c,l,p,d,u,m){return r(),a("div",null,i)}const b=e(n,[["render",t]]);export{_ as __pageData,b as default};

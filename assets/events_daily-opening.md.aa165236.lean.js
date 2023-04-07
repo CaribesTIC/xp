@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,N as l}from"./chunks/framework.f942ffd7.js";const q=JSON.parse('{"title":"Apertura Diaria","description":"","frontmatter":{},"headers":[],"relativePath":"events/daily-opening.md"}'),i={name:"events/daily-opening.md"},r=l("",37),n=[r];function s(t,d,c,u,p,m){return o(),a("div",null,n)}const f=e(i,[["render",s]]);export{q as __pageData,f as default};

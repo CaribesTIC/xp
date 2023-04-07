@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as n,N as o}from"./chunks/framework.f942ffd7.js";const f=JSON.parse('{"title":"Incremento (funcional)","description":"","frontmatter":{},"headers":[],"relativePath":"artifacts/increment.md"}'),t={name:"artifacts/increment.md"},r=o("",5),i=[r];function c(s,d,l,m,p,u){return n(),a("div",null,i)}const b=e(t,[["render",c]]);export{f as __pageData,b as default};

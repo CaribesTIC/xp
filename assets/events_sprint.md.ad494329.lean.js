@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,N as a}from"./chunks/framework.f942ffd7.js";const h=JSON.parse('{"title":"Sprint","description":"","frontmatter":{},"headers":[],"relativePath":"events/sprint.md"}'),n={name:"events/sprint.md"},r=a("",31),s=[r];function i(d,l,p,c,u,m){return o(),t("div",null,s)}const g=e(n,[["render",i]]);export{h as __pageData,g as default};

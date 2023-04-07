@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,N as s}from"./chunks/framework.f942ffd7.js";const q=JSON.parse('{"title":"Administrador de Base de Datos","description":"","frontmatter":{},"headers":[],"relativePath":"roles/db-admin.md"}'),i={name:"roles/db-admin.md"},d=s("",38),n=[d];function r(l,t,c,u,p,m){return o(),a("div",null,n)}const g=e(i,[["render",r]]);export{q as __pageData,g as default};
