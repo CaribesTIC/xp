@@ -1,10 +1,11 @@
 ---
+# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: XP
-  text: Desarrollo de Software
-  tagline: Métodología Ágil
+  name: "XP"
+  text: "Desarrollo de Software"
+  tagline: "Métodología Ágil"
   image:
     src: /logo.png
     alt: XP
@@ -13,9 +14,8 @@ hero:
       text: Comenzar
       link: /start/intro
     - theme: alt
-      text: GitHub
-      link: https://github.com/CaribesTIC/xp
-      
+      text: CaribesTIC
+      link: https://caribestic.github.io/
 
 features:
   - title: 5 Valores
@@ -24,4 +24,5 @@ features:
     details: El motor de XP también tiene un compendio de 12 Buenas Prácticas, que podrían ser nombradas como los 12 Hábitos.
 footer: MIT Licensed | Copyleft © 2022-present Ernesto Canquiz
 ---
+
 

@@ -1,13 +1,16 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+// https://vitepress.dev/reference/site-config
+export default defineConfig({
   title: 'eXtreme Programming',
   description: 'eXtreme Programming',
   base: '/xp/', //  The default path during deployment / secondary address / base can be used/
   themeConfig: {
+    // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Inicio', link: '/' },      
+      { text: 'Inicio', link: '/' },           
       { text: 'Comenzar', link: '/start/intro' },
-      { text: 'CaribesTIC', link: 'https://caribestic.github.io/' },
-      { text: 'GitHub', link: 'https://github.com/CaribesTIC/xp' }      
+      { text: 'CaribesTIC', link: 'https://caribestic.github.io/' }, 
     ],
     sidebar: [
       {
@@ -55,6 +58,9 @@ export default {
           { text: '12. Estándares de Codificación', link: '/practices/coding-standards' }
         ]
       }
+    ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/CaribesTIC/xp' }
     ]
   }
-}
+})
